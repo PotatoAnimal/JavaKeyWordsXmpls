@@ -2,6 +2,6 @@ package com.rmnk.keywords.enumKeyWord;
 
 public class WorkingWithEnumKeyWord {
     public static void main(String[] args) {
-        System.out.println("everything");
+        System.out.println("ролаллслр");
     }
 }
